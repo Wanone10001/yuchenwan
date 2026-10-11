@@ -28,5 +28,5 @@ layout: default
 
 ## 联系方式 · Contact
 
-- 办公地址：文成楼321室
+- 办公地址：东校区 文成楼321室
 - 电子邮箱：ycwan@suda.edu.cn
