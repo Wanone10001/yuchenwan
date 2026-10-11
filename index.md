@@ -9,7 +9,6 @@ layout: default
 我的研究主要围绕随机仿真与仿真优化展开，关注排序择优、
 输入不确定性以及分布鲁棒决策等问题。
 
-邮箱：ycwan@suda.edu.cn
 
 ## 研究方向 · Research Interests
 
