@@ -4,4 +4,7 @@ description: "苏州大学 · 商学院"
 lang: zh-CN
 show_downloads: false
 
-logo: /证件照.jpg
+url: "https://wanone10001.github.io"
+baseurl: "/yuchenwan"
+
+logo: "/证件照.jpg"
